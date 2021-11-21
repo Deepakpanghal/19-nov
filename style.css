@@ -1,0 +1,96 @@
+.paper-title{
+    display: flex;
+    justify-content: space-between;
+}
+.paper-left{
+    width: 200px;
+    border: 1px solid black;
+    padding: 4px;
+    text-align: center;
+}
+.paper-center{
+    width: 600px;
+    text-align: center;
+}
+.paper-right{
+    width: 200px;
+    text-align: center;
+}
+.date{
+    padding: 0px;
+    text-align: center;
+}
+.main-heading{
+    text-align: center;
+    text-transform: uppercase;
+}
+h1+hr{
+    width: 400px;
+}
+.heading-1{
+    font-size: 30px;
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.left{
+    width: 900px;
+}
+.left-content{
+    display: flex;
+}
+.left-1{
+    width: 200px;
+    text-align: center;
+    border-right: 1px solid black;
+}
+.left-1 > hr{
+    width: 200px;
+}
+.left-2{
+    margin-left: 10px;
+    border-right: 1px solid black;
+}
+.left-2-1{
+    margin-left: 10px;
+}
+.left-2-1 > h2{
+    margin-left: 150px;
+}
+.left-2-2{
+    display: flex;
+}
+.left-3-heading{
+    text-align: center;
+}
+.left-3-3{
+    display: flex;
+}
+.left-3{
+    border-right: 1px solid black;
+}
+.right{
+    width: 300px;
+    margin-left: 10px;
+}
+.right > hr{
+    width: 100px;
+}
+.container{
+    display: flex;
+}
+.right-first-heading{
+    text-align: center;
+}
+.right-content-1{
+    display: flex;
+}
+.right-content-2{
+    display: flex;
+}
+.right-content-3{
+    display: flex;
+}
+.last-heading{
+    text-align: center;
+}
